@@ -1,0 +1,18 @@
+Possible ideas we can implement
+
+Symptom Checker and Diagnosis Assistant:
+Create a symptom checker application that cross-references symptom data from reputable medical sources. Users can input their symptoms and receive possible diagnoses along with recommended actions.
+
+
+Kaggle links
+
+Medicines descriptions data: (have to use AI or some tool to extract details, unstructured data)
+https://www.kaggle.com/datasets/mohitkundu1/medicine-descrptions
+
+All medicines data, (structured)
+https://www.kaggle.com/datasets/shudhanshusingh/az-medicine-dataset-of-india
+
+Medicine recommender system(complete detailed)
+https://www.kaggle.com/code/zubairatha/weighted-similarity-medicine-recommender-system
+
+
